@@ -9,3 +9,5 @@ Elham Mahdipour, Ph.D. Candidate of Artificial Intelligence at Yazd University, 
 
 
 Mohammad Ghasemzadeh, Associate Professor of Computer Engineering Department, Yazd University, Yazd, Iran.
+
+This paper accepted in TABRIZ JOURNAL OF ELECTRICAL ENGINEERING, 2020. You can see preprint version of this paper in SFLA-CSO.pdf file. 
